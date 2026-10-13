@@ -1,0 +1,26 @@
+{
+  "name": "ritual-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test scripts/update.test.mjs",
+    "records:propose": "node scripts/update.mjs propose",
+    "records:approve": "node scripts/update.mjs approve",
+    "records:apply": "node scripts/update.mjs apply"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
+}
