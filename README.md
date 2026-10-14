@@ -31,7 +31,7 @@ Node.js 20.9 이상에서 `npm ci`, `npm run dev`를 실행하고 http://localho
 
 File → Add Local Repository에서 이 프로젝트 폴더를 선택합니다. origin은 https://github.com/GunHeeKim127/ritual-portfolio.git 에 연결되어 있습니다. Changes에서 수정된 본문/자료/파일을 확인해 Commit to main 후 Push origin을 사용합니다. 원격을 새로 만들 때만 Publish Repository를 사용합니다. 코드 업로드와 웹 배포는 별개입니다.
 
-main 브랜치에 푸시하면 GitHub Actions가 테스트와 정적 빌드를 거쳐 GitHub Pages에 배포합니다. 공개 주소는 https://gunheekim127.github.io/ritual-portfolio/ 입니다.
+main 브랜치에 푸시하면 연결된 Vercel이 테스트 가능한 정적 사이트를 자동 배포합니다. 공개 주소는 https://ritual-portfolio.vercel.app/ 입니다.
 
 ## 제출 전 확인
 

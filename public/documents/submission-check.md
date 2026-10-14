@@ -1,6 +1,6 @@
 # 제출 확인 방법과 AI 협업 기록
 
-공개 HTTPS 사이트: https://gunheekim127.github.io/ritual-portfolio/
+공개 HTTPS 사이트: https://ritual-portfolio.vercel.app/
 
 이야기: 첫 화면 ‘나의 이야기 읽기’ 또는 소개의 ‘고난에서 지금까지 읽기’. 숫자: ‘기록’ 영역과 ‘숫자와 출처 확인’. 대표작: ‘작업’ 영역의 논문·앱 카드. 문서: ‘문서’ 영역에서 DOCX 다운로드. 장치: 맨 아래 ‘갱신과 검토 과정 보기’의 ZIP 다운로드.
 
