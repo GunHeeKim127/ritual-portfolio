@@ -9,6 +9,7 @@
 - 근무기간: 2023.02~2025.06 · 2년 5개월
 - 주요 기술: TypeScript, Next.js, React, Recoil, PostgreSQL, CSS, MUI, AWS, Docker, QGIS
 - 협업 도구: Git, Notion, Figma, Slack
+- 공개 범위: 회사 홈페이지처럼 공개된 결과만 링크할 수 있으며, 관리자 페이지·내부 운영 화면·소스코드·비공개 데이터는 회사 자산이므로 공개하지 않음
 
 ## 1 사내 통계 데이터 대시보드 및 업무 관리 사이트
 
