@@ -9,7 +9,7 @@
     {
       "name": "김건희_이력서.docx 본문",
       "passed": true,
-      "detail": "31 non-empty paragraphs"
+      "detail": "29 non-empty paragraphs"
     },
     {
       "name": "김건희_이력서.docx 개인정보 범위",
@@ -24,7 +24,7 @@
     {
       "name": "김건희_자기소개서.docx 본문",
       "passed": true,
-      "detail": "31 non-empty paragraphs"
+      "detail": "39 non-empty paragraphs"
     },
     {
       "name": "김건희_자기소개서.docx 개인정보 범위",
@@ -54,7 +54,7 @@
     {
       "name": "자기소개 1,500자 안팎",
       "passed": true,
-      "detail": "1353자"
+      "detail": "1680자"
     },
     {
       "name": "세 능력 장면",
@@ -69,12 +69,12 @@
     {
       "name": "김건희_이력서.docx 존재",
       "passed": true,
-      "detail": "38196"
+      "detail": "38156"
     },
     {
       "name": "김건희_자기소개서.docx 존재",
       "passed": true,
-      "detail": "39395"
+      "detail": "39941"
     },
     {
       "name": "김건희_경력기술서.docx 존재",
@@ -84,12 +84,12 @@
     {
       "name": "김건희_브랜딩_제출물.zip 존재",
       "passed": true,
-      "detail": "135225"
+      "detail": "135790"
     },
     {
       "name": "refresh-kit.zip 존재",
       "passed": true,
-      "detail": "21870"
+      "detail": "21963"
     },
     {
       "name": "representative-paper.md 존재",
