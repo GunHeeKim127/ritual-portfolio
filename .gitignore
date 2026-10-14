@@ -7,3 +7,6 @@ work/
 updates/
 *.tsbuildinfo
 .DS_Store
+
+# Source novel stays local; the public site uses only verified excerpts
+mynovel.md
