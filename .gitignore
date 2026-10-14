@@ -10,3 +10,6 @@ updates/
 
 # Source novel stays local; the public site uses only verified excerpts
 mynovel.md
+
+# Private ritual exports stay local; only redacted inputs are published
+ritual-history-*.json
