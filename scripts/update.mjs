@@ -29,7 +29,7 @@ export function run(args,root=resolve(dirname(fileURLToPath(import.meta.url)),'.
  if(command==='propose') {
   if(!file) throw Error('원본 JSON 경로가 필요합니다.');
   const raw=readFileSync(resolve(file),'utf8'), next=normalize(JSON.parse(raw));
-  const proposal={version:1,baseHash:hash(current()),sourceHash:hash(raw),next,sourceFile:resolve(file)};
+  const proposal={version:1,baseHash:hash(current()),sourceHash:hash(raw),next};
   const id=hash(JSON.stringify(proposal)); const path=resolve(dir,id+'.json');
   atomic(path,JSON.stringify(proposal,null,2)+'\n');
   const before=read(data).records, after=JSON.parse(next).records;

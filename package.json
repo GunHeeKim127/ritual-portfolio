@@ -5,12 +5,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
     "typecheck": "tsc --noEmit",
-    "test": "node --test scripts/update.test.mjs",
+    "test": "node --test scripts/update.test.mjs scripts/refresh.test.mjs",
     "records:propose": "node scripts/update.mjs propose",
     "records:approve": "node scripts/update.mjs approve",
-    "records:apply": "node scripts/update.mjs apply"
+    "records:apply": "node scripts/update.mjs apply",
+    "refresh:generate": "node scripts/refresh.mjs generate",
+    "refresh:approve": "node scripts/refresh.mjs approve",
+    "refresh:apply": "node scripts/refresh.mjs apply"
   },
   "dependencies": {
     "next": "latest",
