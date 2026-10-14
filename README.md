@@ -12,7 +12,7 @@ Node.js 20.9 이상에서 `npm ci`, `npm run dev`를 실행하고 http://localho
 
 원본 기록일 34일, 월요일 시작 기준 8개 주, 확보 기간 2026-08-11~2026-10-01. 공개 장면은 여섯 개입니다. 원본 전체와 타인의 이름은 저장소에 포함하지 않았습니다. 출석과 제출 현황은 별도 자료 미확보로 null이며 —로 표시합니다. 13주 전체 기록이 확보됐다는 뜻이 아닙니다.
 
-공개 연락 수단, 10번 논문 완성본, 11번 소설, 앱 예정일은 확인이 필요합니다. 문서는 MD 파일로 다운로드됩니다. 이력서의 이름은 반영했으며 연락 수단과 전체 수행기간은 미확정입니다.
+공개 연락 수단은 GitHub 공개 프로필의 이메일을 연결했고, 10번 논문 통합 초안을 사이트에 직접 올렸습니다. 이력서·자기소개서·경력기술서는 DOCX로 다운로드됩니다. 11번 소설 원문, 13주 전체 출석·제출 원본, 13번 앱 확정 예정일은 자료가 없어 추정하지 않았습니다.
 
 ## 기록 갱신
 
@@ -31,7 +31,7 @@ Node.js 20.9 이상에서 `npm ci`, `npm run dev`를 실행하고 http://localho
 
 File → Add Local Repository에서 이 프로젝트 폴더를 선택합니다. origin은 https://github.com/GunHeeKim127/ritual-portfolio.git 에 연결되어 있습니다. Changes에서 수정된 본문/자료/파일을 확인해 Commit to main 후 Push origin을 사용합니다. 원격을 새로 만들 때만 Publish Repository를 사용합니다. 코드 업로드와 웹 배포는 별개입니다.
 
-현재 변경은 로컬에 적용되어 있습니다. 공개 HTTPS 사이트는 아직 배포하지 않았습니다. 정적 호스팅을 선택한 다음 out/를 배포하세요. GitHub Pages 프로젝트 하위 경로를 쓰면 basePath와 다운로드 링크 경로를 함께 수정해야 합니다.
+main 브랜치에 푸시하면 GitHub Actions가 테스트와 정적 빌드를 거쳐 GitHub Pages에 배포합니다. 공개 주소는 https://gunheekim127.github.io/ritual-portfolio/ 입니다.
 
 ## 제출 전 확인
 

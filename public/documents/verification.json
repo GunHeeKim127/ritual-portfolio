@@ -1,0 +1,100 @@
+{
+  "verifiedAt": "2026-10-14",
+  "checks": [
+    {
+      "name": "김건희_이력서.docx Word 패키지",
+      "passed": true,
+      "detail": "17 entries"
+    },
+    {
+      "name": "김건희_이력서.docx 본문",
+      "passed": true,
+      "detail": "31 non-empty paragraphs"
+    },
+    {
+      "name": "김건희_이력서.docx 개인정보 범위",
+      "passed": true,
+      "detail": "secret marker scan"
+    },
+    {
+      "name": "김건희_자기소개서.docx Word 패키지",
+      "passed": true,
+      "detail": "17 entries"
+    },
+    {
+      "name": "김건희_자기소개서.docx 본문",
+      "passed": true,
+      "detail": "32 non-empty paragraphs"
+    },
+    {
+      "name": "김건희_자기소개서.docx 개인정보 범위",
+      "passed": true,
+      "detail": "secret marker scan"
+    },
+    {
+      "name": "김건희_경력기술서.docx Word 패키지",
+      "passed": true,
+      "detail": "17 entries"
+    },
+    {
+      "name": "김건희_경력기술서.docx 본문",
+      "passed": true,
+      "detail": "35 non-empty paragraphs"
+    },
+    {
+      "name": "김건희_경력기술서.docx 개인정보 범위",
+      "passed": true,
+      "detail": "secret marker scan"
+    },
+    {
+      "name": "제출 묶음 구성",
+      "passed": true,
+      "detail": "김건희_이력서.docx, 김건희_자기소개서.docx, 김건희_경력기술서.docx, refresh-kit.zip, submission-check.md, representative-paper.md"
+    },
+    {
+      "name": "자기소개 1,500자 안팎",
+      "passed": true,
+      "detail": "1447자"
+    },
+    {
+      "name": "세 능력 장면",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "날짜 장면",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "김건희_이력서.docx 존재",
+      "passed": true,
+      "detail": "38196"
+    },
+    {
+      "name": "김건희_자기소개서.docx 존재",
+      "passed": true,
+      "detail": "39379"
+    },
+    {
+      "name": "김건희_경력기술서.docx 존재",
+      "passed": true,
+      "detail": "37885"
+    },
+    {
+      "name": "김건희_브랜딩_제출물.zip 존재",
+      "passed": true,
+      "detail": "131292"
+    },
+    {
+      "name": "refresh-kit.zip 존재",
+      "passed": true,
+      "detail": "19469"
+    },
+    {
+      "name": "representative-paper.md 존재",
+      "passed": true,
+      "detail": "21108"
+    }
+  ]
+}
